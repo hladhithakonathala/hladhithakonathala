@@ -1,33 +1,39 @@
-<h1 align="center">Konathala Hladhitha</h1>
+<h1 align="center">Hi 👋 I'm Konathala Hladhitha</h1>
 
 <p align="center">
-Aspiring Software Developer | B.Tech IT Student
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Problem+Solver;Tech+Enthusiast&center=true&width=500&height=50&color=00FF00">
 </p>
 
 ---
 
-## About Me
-- Passionate about Software Development  
-- Skilled in Python, Java & SQL  
-- Interested in Full Stack Development  
-- Continuously improving problem-solving skills  
+## 🖤 About Me
+- 🎓 B.Tech IT Student  
+- 💻 Focused on Backend & Problem Solving  
+- ⚡ Building Real-World Projects  
+- 📚 Strong in Python & Databases  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode&theme=dark" />
 </p>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hladhithakonthala&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hladhithakonthala&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hladhithakonthala&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=hladhithakonthala&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hladhithakonthala&theme=react-dark" />
