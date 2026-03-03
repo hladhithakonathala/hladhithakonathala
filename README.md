@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Konathala Hladhitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Problem+Solver;Full stack developer&center=true&width=500&height=50&color=4169E1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Problem+Solver;Full stack developer&center=true&width=500&height=50&color=#4169E1">
 </p>
 
 ---
